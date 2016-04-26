@@ -30,7 +30,7 @@
       *>===================================================================================
        0000-controle section.
        0000.
-            move "=====11.20.00.00====="to ws-gp-versao-promax.
+            move "=====11.20.01.00====="to ws-gp-versao-promax.
             move ws-versao-promax       to lnk-versao-sistema.
        0000-saida.
             exit program
